@@ -1,1 +1,2 @@
 correcting erorr in file in time 
+fix bug2 
